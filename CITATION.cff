@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Please cite this software using its version-specific archival DOI."
+type: software
+title: "AMP assay calibration: reproducibility code"
+version: 1.0.0
+doi: 10.5281/zenodo.23582421
+repository-code: "https://github.com/jfbldevs/amp-assay-calibration"
+url: "https://doi.org/10.5281/zenodo.23582421"
+authors:
+  - family-names: "Beltrán"
+    given-names: "Jorge F."
+    affiliation: "Universidad de La Frontera, Facultad de Ingeniería y Ciencias, Departamento de Ingeniería Química, Avenida Francisco Salazar 01145, 4811230 Temuco, Chile"
+    email: "jorge.beltran@ufrontera.cl"
+license: MIT
+abstract: "Reproducibility code for retrospective in-silico analysis of peptide MIC prediction, censored inference and reference assay calibration. Companion data: doi:10.5281/zenodo.23582323."
+keywords:
+  - antimicrobial peptides
+  - assay calibration
+  - empirical Bayes
+  - reproducibility

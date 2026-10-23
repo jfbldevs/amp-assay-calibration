@@ -1,0 +1,5 @@
+{
+  "python": "3.11.15 (main, Mar  3 2026, 00:52:57) [Clang 17.0.0 (clang-1700.6.3.2)]",
+  "platform": "macOS-27.0.1-arm64-arm-64bit",
+  "validation_environment": "Existing audited environment; portable files tested in isolated directory. No fresh dependency installation claimed."
+}
